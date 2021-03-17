@@ -1,2 +1,2 @@
 # AJAX xhr
-Proszę zmienić w hibar.js lokację plików i wszystko powinno działać
+Proszę zmienić w ajax.js lokację plików i wszystko powinno działać
